@@ -1,3 +1,5 @@
+My Comments: In this lab activity, we learned how to complete a pull request and add comments. From this lab activity, we were able to learn more about pull requests and how to merge them to the main branch.
+
 <header>
 
 <!--
